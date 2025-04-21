@@ -1,3 +1,3 @@
-# SSL - Matías Bermejo Fernández 1774943 - K2151
+# Sintaxis y Semántica de los Lenguajes - Matías Bermejo Fernández 1774943 - K2151
 
-Repositorio TPs Sintaxis y Semántica de los Lenguajes
+Repositorio TPs Sintaxis y Semántica de los Lenguajes - 2025
